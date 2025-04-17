@@ -1,5 +1,10 @@
 # sql-sever-cluster-project
 
+solution 
+
+
+
+
 
 SELECT  cast([Destination_Latitude] as float) as [Destination_Latitude]
       ,convert(float,[Destination_Longitude])[Destination_Longitude]
